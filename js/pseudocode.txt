@@ -1,0 +1,5 @@
+1- refactorizar el codigo
+2- crear listener a los botones
+3- mostrar resultados
+4- agregar imagenes de seleccion
+5- agregar estilos
