@@ -27,7 +27,7 @@ function game(playerSelection) {
         displayResult.textContent = '';
         displayGame.textContent = roundResult.message;
     }
-    if (result) displayResult.innerHTML = `<p>Result:</p><p>${result.winner}</p> <p>Player Score: ${result.playerScore}</p> <p>Computer Score: ${result.computerScore}<p>`;
+    if (result) displayResult.innerHTML = result.winner;
 
 }
 
